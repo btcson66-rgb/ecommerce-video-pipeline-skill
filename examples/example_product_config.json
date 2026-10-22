@@ -1,0 +1,35 @@
+{
+  "product_code": "DEMO001",
+  "name": "Luxury Genuine Leather Handbag",
+  "brand": "BRAND_NAME",
+  "price": "NT$2,980",
+  "cta_text": "【官方旗艦限定】立即探索選購",
+  "url": "https://example.com/product/123456",
+  "title": "【BRAND】頂級手工真皮兩用手提包｜義式微奢工藝｜日常都會百搭",
+  "caption": "✨ BRAND 頂級手工真皮兩用手提包\n\n嚴選全粒面天然植鞣頭層牛皮，觸感溫潤扎實。\n大容量都會俐落剪裁，手提、肩背隨心切換。\n\n🎁 官方旗艦現貨供應，立即點擊探索選購！\n#精品包 #真皮包 #穿搭日常 #官方旗艦",
+  "top_capsule": {
+    "bg_color": "#0F172A",
+    "border_color": "#F59E0B",
+    "brand_title": "BRAND 官方旗艦限定系列",
+    "sub_title": "義式植鞣工藝 · 全粒面頭層牛皮"
+  },
+  "subtitles": {
+    "S1": ["步入優雅都會生活日常", "BRAND 頂級真皮 · 俐落剪裁線條"],
+    "S2": ["精雕細琢五金與皮革細節", "溫潤扎實手感 · 經久耐用相伴"],
+    "S3": ["多色現貨同步奢華呈現", "官方旗艦現貨供應 · 點擊下方探索"]
+  },
+  "color_variants": [
+    {
+      "time_pct": 0.0,
+      "tag": "【經典首選】焦糖琥珀棕 · 溫潤復古氣質",
+      "desc": "義大利頂級牛皮 · 展現高雅生活品味"
+    },
+    {
+      "time_pct": 0.5,
+      "tag": "【俐落百搭】曜石小香黑 · 都會率性首選",
+      "desc": "官方旗艦現貨限定 · 點擊下方選購"
+    }
+  ],
+  "single_variant_tag": "【官方限定】經典琥珀棕 · 360° 全景展示",
+  "single_variant_desc": "全粒面頭層牛皮 · 官方旗艦限定 NT$2,980"
+}
